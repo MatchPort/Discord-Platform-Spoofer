@@ -3,11 +3,17 @@
 
 This application Spoofs your Discord platform to the supported platforms: Web, Client/PC, Console and Mobile!
 
+![image](https://github.com/user-attachments/assets/261c167b-99a0-427d-8f15-e521d2020023)
+
+
 ## Installation 🌟
 
 Download the latest release and run `npm install` to install all the dependencies,
 
 Then just open `run.bat` to start the program.
+
+![image](https://github.com/user-attachments/assets/ccc697a3-76f0-4fd1-8f72-e4613916a964)
+
 
 
     
